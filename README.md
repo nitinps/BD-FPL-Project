@@ -1,4 +1,6 @@
 # BD-FPL-Project
+PLEASE NOTE THIS IS MY YACS PROJECT AND NOT FPL. SORRY FOR THE INCONVENIENCE
+
 Make sure all the files are in the same folder. 
 
 Make sure all the worker files are running before starting master:
